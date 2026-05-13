@@ -2,6 +2,10 @@
 
 A modern frontend portfolio and editorial platform focused on clean typography, smooth interaction, and structured storytelling. Designed with inspiration from contemporary product and publishing aesthetics.
 
+## Live Demo
+
+Live Demo : https://portfolio.akshatsiddh.workers.dev/
+
 ## Overview
 
 This project contains a developer portfolio . It is built as a frontend-only application with performance, readability, and motion consistency as core priorities.
